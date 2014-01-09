@@ -1,7 +1,7 @@
 // Turn this project into a Scala.js project by importing these settings
 scalaJSSettings
 
-name := "SimpleGame"
+name := "scalaJSChat"
 
 version := "0.1-SNAPSHOT"
 

@@ -1,1 +1,1 @@
-ScalaJS.modules.example_ScalaJSExample().main();
+ScalaJS.modules.chat_ChatExample().main();
